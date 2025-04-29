@@ -19,6 +19,9 @@ A comprehensive, full-course playlist to get you started:
 ### 🧩 Core Concepts
 - [Classes in Python](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=98s)
 - [Functions in Python](https://www.youtube.com/watch?v=kGcUtckifXc)
+- [While Loops](https://www.youtube.com/watch?v=S_1QiK_RF2o&pp=ygUabmVzbyBhY2FkZW15IHB5dGhvbiAgbG9vcHM%3D)
+- [for loops](https://www.youtube.com/watch?v=YhDI2btcWeU&pp=ygUabmVzbyBhY2FkZW15IHB5dGhvbiAgbG9vcHM%3D)
+- [for vs while loops](https://www.youtube.com/watch?v=UP2Bk1a2Dgg)
 
 ---
 
