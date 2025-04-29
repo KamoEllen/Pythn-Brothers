@@ -35,7 +35,7 @@ If you're stuck, don't panic! Use one of the following:
 - YouTube: `Neso Academy YOUR_QUESTION`
 - Or ask me directly!
 
-### Key Python Concepts:
+### Key Python Concepts (do class and func allocate 1 hour , then do while for loops and allocate another hour):
 - [Classes in Python](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=98s)
 - [Functions in Python](https://www.youtube.com/watch?v=kGcUtckifXc)
 - [While Loops](https://www.youtube.com/watch?v=S_1QiK_RF2o&pp=ygUabmVzbyBhY2FkZW15IHB5dGhvbiAgbG9vcHM%3D)
