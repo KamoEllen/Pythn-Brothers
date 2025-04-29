@@ -1,14 +1,11 @@
-Here's a clean and informative GitHub `README.md` you can use for your project:
 
----
-
-# 🐍 Python Basics & Mini Projects
+# 🐍 Python Basics & Mini Projects 
 
 Welcome to this beginner-friendly Python repository! It includes solutions to common coding problems and small game projects to help you understand and apply programming concepts effectively.
 
 ---
 
-## ✅ Coding Problems
+## ✅ Coding Problems (This is what they'll ask at wtc, dont do it now , just know this is it and other similar questions, to get ready learn loops functions and build projects)
 
 These are basic Python problems every beginner should try. Each item includes a helpful tutorial link:
 
@@ -25,7 +22,7 @@ These are basic Python problems every beginner should try. Each item includes a 
 
 Challenge yourself with these beginner-to-intermediate game projects:
 
-1. 🟩 **[Tic Tac Toe](https://www.youtube.com/watch?v=dK6gJw4-NCo)**  
+1. 🟩 **[Tic Tac Toe 25 mins](https://www.youtube.com/watch?v=dK6gJw4-NCo)**  
 2. ⛏️ **[Minecraft Clone (1 Hour)](https://www.youtube.com/watch?v=Ab8TOSFfNp4&list=PLi77irUVkDatlbulEY4Kz8O107HO8RGH8&index=2)**  
 3. 🔫 **[DOOM Clone (52 Minutes)](https://www.youtube.com/watch?v=ECqUrT7IdqQ&list=PLi77irUVkDatlbulEY4Kz8O107HO8RGH8)**  
 
