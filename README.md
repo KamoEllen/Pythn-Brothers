@@ -9,7 +9,7 @@ Welcome to this beginner-friendly Python repository! It includes solutions to co
 
 These are basic Python problems every beginner should try. Each item includes a helpful tutorial link:
 
-- ✅ **Reverse a string**
+- ✅ [Reverse a string](https://www.youtube.com/watch?v=fkZBAhQ_jaY&pp=ygUXcHl0aG9uIFJldmVyc2UgYSBzdHJpbmc%3D)
 - ✅ [Fibonacci sequence](https://www.youtube.com/watch?v=6VCJhq6FsaY&list=PLBlnK6fEyqRiueC_HzwFallNO76hfXBB7&index=106&pp=iAQB0gcJCYQJAYcqIYzv)
 - ✅ [FizzBuzz](https://www.youtube.com/watch?v=whbXCE7UPjY)
 - ✅ [Factorial](https://www.youtube.com/watch?v=tDTQ1h40SwE)
