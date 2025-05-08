@@ -29,6 +29,7 @@ Challenge yourself with these beginner-to-intermediate game projects:
 
 ---
 
+[ 25 projects in 2h](https://www.youtube.com/watch?v=t9GQPpEx1Jo)
 ## 🧠 Helpful Learning Resources
 
 If you're stuck, don't panic! Use one of the following:
